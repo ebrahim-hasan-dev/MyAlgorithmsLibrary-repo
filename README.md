@@ -33,14 +33,14 @@ Advanced implementations of Stack-based logic for solving expression-heavy compu
 
 | Category | Algorithm | Time Complexity (Worst) | Space Complexity |
 | :--- | :--- | :--- | :--- |
-| **Searching** | Binary Search | O(log n) | (Iterative) O(1) / (Recursive) O(log n) |
-| **Sorting** | Bubble / Selection / Insertion | O(n^2^) | O(1) |
+| **Searching** | Binary Search | O(log n) | (Iter) O(1) / (Rec) O(log n) |
+| **Sorting** | Bubble / Selection / Insertion | O(n^2) | O(1) |
 | **Sorting** | Merge | O(n log n) | O(n) |
-| **Sorting** | Quick | O(n^2^) / (Avg) O(n log n) | O(log n) |
+| **Sorting** | Quick | O(n^2) / (Avg) O(n log n) | O(log n) |
 | **Sorting** | Heap Sort | O(n log n) | O(1) |
 | **Compression**| Huffman Coding | O(n log n) | O(n) |
 | **Math** | Fibonacci (Iterative) | O(n) | O(1) |
-| **Math** | Fibonacci (Recursive) | O(2^n^) | O(n) |
+| **Math** | Fibonacci (Recursive) | O(2^n) | O(n) |
 
 ---
 
